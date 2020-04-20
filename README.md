@@ -22,7 +22,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-ar
 Open the prompt and go to the folder that will hold the cloned the repository.
 
 ```
-git clone [https://github.com/rmcavalcante/mit_ai_labs_6034.git](https://github.com/rmcavalcante/mit_ai_labs_6034.git)
+git clone https://github.com/rmcavalcante/mit_ai_labs_6034.git
 ```
 
 it will create the folder **mit_ai_labs_6034.git**

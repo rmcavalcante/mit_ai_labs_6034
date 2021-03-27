@@ -1,0 +1,1 @@
+Folder dedicated to C# coding experiments

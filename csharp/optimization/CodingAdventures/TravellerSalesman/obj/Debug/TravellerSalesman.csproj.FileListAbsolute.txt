@@ -1,0 +1,11 @@
+D:\Roberto\Documents\Source\Repos\mit_ai_labs_6034\csharp\optimization\CodingAdventures\TravellerSalesman\bin\Debug\TravellerSalesman.dll
+D:\Roberto\Documents\Source\Repos\mit_ai_labs_6034\csharp\optimization\CodingAdventures\TravellerSalesman\bin\Debug\TravellerSalesman.pdb
+D:\Roberto\Documents\Source\Repos\mit_ai_labs_6034\csharp\optimization\CodingAdventures\TravellerSalesman\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Roberto\Documents\Source\Repos\mit_ai_labs_6034\csharp\optimization\CodingAdventures\TravellerSalesman\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Roberto\Documents\Source\Repos\mit_ai_labs_6034\csharp\optimization\CodingAdventures\TravellerSalesman\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Roberto\Documents\Source\Repos\mit_ai_labs_6034\csharp\optimization\CodingAdventures\TravellerSalesman\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Roberto\Documents\Source\Repos\mit_ai_labs_6034\csharp\optimization\CodingAdventures\TravellerSalesman\obj\Debug\TravellerSalesman.csproj.CoreCompileInputs.cache
+D:\Roberto\Documents\Source\Repos\mit_ai_labs_6034\csharp\optimization\CodingAdventures\TravellerSalesman\obj\Debug\TravellerSalesman.csproj.CopyComplete
+D:\Roberto\Documents\Source\Repos\mit_ai_labs_6034\csharp\optimization\CodingAdventures\TravellerSalesman\obj\Debug\TravellerSalesman.dll
+D:\Roberto\Documents\Source\Repos\mit_ai_labs_6034\csharp\optimization\CodingAdventures\TravellerSalesman\obj\Debug\TravellerSalesman.pdb
+D:\Roberto\Documents\Source\Repos\mit_ai_labs_6034\csharp\optimization\CodingAdventures\TravellerSalesman\obj\Debug\TravellerSalesman.csprojAssemblyReference.cache
